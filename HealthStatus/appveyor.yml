@@ -1,9 +1,0 @@
-version: 1.0.{build}
-
-install:
-  - npm install
-
-test_script:
-  - npm test
-
-build: off
